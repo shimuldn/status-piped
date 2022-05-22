@@ -28,6 +28,9 @@ status-website:
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
   theme: night
+i18n:
+  footer: Thank you.
+
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
