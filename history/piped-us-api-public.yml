@@ -1,7 +1,7 @@
 url: https://us-api-piped.shimul.me/trending
-status: down
-code: 502
-responseTime: 270
-lastUpdated: 2022-05-22T20:26:24.556Z
+status: up
+code: 200
+responseTime: 295
+lastUpdated: 2022-05-22T20:42:23.999Z
 startTime: Sun May 22 2022 15:57:25 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
