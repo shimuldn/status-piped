@@ -58,18 +58,20 @@
     "url": "http://us-piped.shimul.me",
     "icon": "https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/us.png",
     "slug": "piped-us-public",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 443,
-    "timeDay": 443,
-    "timeWeek": 443,
-    "timeMonth": 443,
-    "timeYear": 443,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.91%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.91%",
+    "time": 280,
+    "timeDay": 280,
+    "timeWeek": 280,
+    "timeMonth": 280,
+    "timeYear": 280,
+    "dailyMinutesDown": {
+      "2022-05-22": 0
+    }
   },
   {
     "name": "Piped US API - Public",
@@ -94,17 +96,19 @@
     "url": "http://us-proxy-piped.shimul.me",
     "icon": "https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/us.png",
     "slug": "piped-us-proxy-public",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 452,
-    "timeDay": 452,
-    "timeWeek": 452,
-    "timeMonth": 452,
-    "timeYear": 452,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.94%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.94%",
+    "time": 276,
+    "timeDay": 276,
+    "timeWeek": 276,
+    "timeMonth": 276,
+    "timeYear": 276,
+    "dailyMinutesDown": {
+      "2022-05-22": 0
+    }
   }
 ]
