@@ -22,11 +22,11 @@ status-website:
   name: Upptime
 #   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
   introMessage: Is this up?
-  navbar:
-    - title: Status
-      href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+#   navbar:
+#     - title: Status
+#       href: /
+#     - title: GitHub
+#       href: https://github.com/$OWNER/$REPO
   theme: night
 i18n:
   footer: Thank you.
