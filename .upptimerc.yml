@@ -21,6 +21,36 @@ sites:
   - name: Piped US Proxy - Public
     url: http://us-proxy-piped.shimul.me
     icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/us.png
+    
+  - name: Piped DE - Public
+    url: http://de-piped.shimul.me
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/de.png
+  - name: Piped DE API - Public
+    url: https://de-api-piped.shimul.me/trending
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/de.png
+  - name: Piped DE Proxy - Public
+    url: http://de-proxy-piped.shimul.me
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/de.png
+    
+  - name: Piped SA - Public
+    url: http://sa-piped.shimul.me
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/sa.png
+  - name: Piped SA API - Public
+    url: https://sa-api-piped.shimul.me/trending
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/sa.png
+  - name: Piped SA Proxy - Public
+    url: http://sa-proxy-piped.shimul.me
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/sa.png
+    
+  - name: Piped IN - Public
+    url: http://in-piped.shimul.me
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/in.png
+  - name: Piped In API - Public
+    url: https://in-api-piped.shimul.me/trending
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/in.png
+  - name: Piped IN Proxy - Public
+    url: http://in-proxy-piped.shimul.me
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/in.png
 
 
 status-website:
@@ -33,7 +63,7 @@ status-website:
   navbar:
     - title: Status
       href: /
-    - title: Visite Piped
+    - title: Visit Piped
       href: https://piped.shimul.me
 #   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
   introMessage: Is this up?
