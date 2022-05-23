@@ -74,14 +74,15 @@ status-website:
 #     - title: GitHub
 #       href: https://github.com/$OWNER/$REPO
   theme: night
-  workflowSchedule:
-    uptime: "0 1 * * *"
   metaTags:
     - name: "robots"
       content: "noindex"
 user-agent: $OWNER
 i18n:
   footer: Thank you.
+  
+workflowSchedule:
+    uptime: "0 1 * * *"
 
 
 # Upptime also supports notifications, assigning issues, and more
