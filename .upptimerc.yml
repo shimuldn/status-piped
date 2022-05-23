@@ -2,7 +2,7 @@
 owner: shimuldn # Your GitHub organization or username, where this repository lives
 repo: status-piped # The name of this repository
 
-# runner: [self-hosted, linux, ARM64]
+runner: [self-hosted]
 
 sites:
   - name: Piped API - Public
