@@ -27,6 +27,11 @@ status-website:
 #   baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
+  navbar:
+    - title: Status
+      href: /
+    - title: Visite Piped
+      href: https://piped.shimul.me
 #   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
   introMessage: Is this up?
 #   navbar:
@@ -35,6 +40,9 @@ status-website:
 #     - title: GitHub
 #       href: https://github.com/$OWNER/$REPO
   theme: night
+  metaTags:
+    - name: "robots"
+      content: "noindex"
 user-agent: $OWNER
 i18n:
   footer: Thank you.
