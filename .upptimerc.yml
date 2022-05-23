@@ -2,10 +2,22 @@
 owner: shimuldn # Your GitHub organization or username, where this repository lives
 repo: status-piped # The name of this repository
 
-sites:
-  - name: Shimul.me - Public
-    url: http://shimul.me
+  - name: Piped API - Public
+    url: https://api-piped.shimul.me/trending
     icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/jp.png
+  - name: Piped Proxy - Public
+    url: http://proxy-piped.shimul.me
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/jp.png
+    
+  - name: Piped US - Public
+    url: http://us-piped.shimul.me
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/us.png
+  - name: Piped US API - Public
+    url: https://us-api-piped.shimul.me/trending
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/us.png
+  - name: Piped US Proxy - Public
+    url: http://us-proxy-piped.shimul.me
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/us.png
 
 
 status-website:
@@ -23,6 +35,7 @@ status-website:
 #     - title: GitHub
 #       href: https://github.com/$OWNER/$REPO
   theme: night
+user-agent: $OWNER
 i18n:
   footer: Thank you.
 
