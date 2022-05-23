@@ -40,19 +40,19 @@
     "url": "http://proxy-piped.shimul.me",
     "icon": "https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/jp.png",
     "slug": "piped-proxy-public",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 910,
-    "timeDay": 910,
-    "timeWeek": 910,
-    "timeMonth": 910,
-    "timeYear": 910,
+    "status": "up",
+    "uptime": "95.38%",
+    "uptimeDay": "95.38%",
+    "uptimeWeek": "95.38%",
+    "uptimeMonth": "95.38%",
+    "uptimeYear": "95.38%",
+    "time": 925,
+    "timeDay": 925,
+    "timeWeek": 925,
+    "timeMonth": 925,
+    "timeYear": 925,
     "dailyMinutesDown": {
-      "2022-05-23": 0
+      "2022-05-23": 48
     }
   }
 ]
