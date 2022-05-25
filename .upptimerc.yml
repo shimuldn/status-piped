@@ -6,6 +6,9 @@ repo: status-piped # The name of this repository
 runs-on: ubuntu-latest
 
 sites:
+  - name: Piped - Public
+    url: http://piped.shimul.me
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/jp.png
   - name: Piped API - Public
     url: https://api-piped.shimul.me/trending
     icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/jp.png
