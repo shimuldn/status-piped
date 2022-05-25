@@ -1,5 +1,23 @@
 [
   {
+    "name": "Piped - Public",
+    "url": "http://piped.shimul.me",
+    "icon": "https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/jp.png",
+    "slug": "piped-public",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 916,
+    "timeDay": 866,
+    "timeWeek": 916,
+    "timeMonth": 916,
+    "timeYear": 916,
+    "dailyMinutesDown": {}
+  },
+  {
     "name": "Piped API - Public",
     "url": "https://api-piped.shimul.me/trending",
     "icon": "https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/jp.png",
