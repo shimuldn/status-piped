@@ -1,7 +1,7 @@
 url: http://de-piped.shimul.me
-status: up
-code: 200
-responseTime: 848
-lastUpdated: 2022-05-26T23:08:23.018Z
+status: down
+code: 502
+responseTime: 767
+lastUpdated: 2022-05-27T21:51:46.998Z
 startTime: Mon May 23 2022 19:18:21 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
