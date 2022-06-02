@@ -66,7 +66,7 @@
     "uptimeYear": "100.00%",
     "time": 478,
     "timeDay": 442,
-    "timeWeek": 344,
+    "timeWeek": 339,
     "timeMonth": 478,
     "timeYear": 478,
     "dailyMinutesDown": {}
@@ -120,7 +120,7 @@
     "uptimeYear": "100.00%",
     "time": 783,
     "timeDay": 832,
-    "timeWeek": 798,
+    "timeWeek": 788,
     "timeMonth": 783,
     "timeYear": 783,
     "dailyMinutesDown": {}
@@ -220,53 +220,59 @@
     "url": "http://in-piped.shimul.me",
     "icon": "https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/in.png",
     "slug": "piped-in-public",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1396,
-    "timeDay": 1230,
-    "timeWeek": 1310,
-    "timeMonth": 1396,
-    "timeYear": 1396,
-    "dailyMinutesDown": {}
+    "time": 1403,
+    "timeDay": 1309,
+    "timeWeek": 1327,
+    "timeMonth": 1403,
+    "timeYear": 1403,
+    "dailyMinutesDown": {
+      "2022-06-02": 0
+    }
   },
   {
     "name": "Piped In API - Public",
     "url": "https://in-api-piped.shimul.me/trending",
     "icon": "https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/in.png",
     "slug": "piped-in-api-public",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 844,
-    "timeDay": 811,
-    "timeWeek": 797,
-    "timeMonth": 844,
-    "timeYear": 844,
-    "dailyMinutesDown": {}
+    "time": 849,
+    "timeDay": 844,
+    "timeWeek": 808,
+    "timeMonth": 849,
+    "timeYear": 849,
+    "dailyMinutesDown": {
+      "2022-06-02": 0
+    }
   },
   {
     "name": "Piped IN Proxy - Public",
     "url": "http://in-proxy-piped.shimul.me",
     "icon": "https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/in.png",
     "slug": "piped-in-proxy-public",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1435,
-    "timeDay": 1360,
-    "timeWeek": 1387,
-    "timeMonth": 1435,
-    "timeYear": 1435,
-    "dailyMinutesDown": {}
+    "time": 1442,
+    "timeDay": 1412,
+    "timeWeek": 1401,
+    "timeMonth": 1442,
+    "timeYear": 1442,
+    "dailyMinutesDown": {
+      "2022-06-02": 0
+    }
   }
 ]
