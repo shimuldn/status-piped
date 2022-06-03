@@ -223,18 +223,18 @@
     "icon": "https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/in.png",
     "slug": "piped-in-public",
     "status": "down",
-    "uptime": "97.38%",
-    "uptimeDay": "72.08%",
-    "uptimeWeek": "96.01%",
-    "uptimeMonth": "97.38%",
-    "uptimeYear": "97.38%",
+    "uptime": "97.36%",
+    "uptimeDay": "71.86%",
+    "uptimeWeek": "95.98%",
+    "uptimeMonth": "97.36%",
+    "uptimeYear": "97.36%",
     "time": 1409,
     "timeDay": 1431,
     "timeWeek": 1342,
     "timeMonth": 1409,
     "timeYear": 1409,
     "dailyMinutesDown": {
-      "2022-06-03": 402
+      "2022-06-03": 405
     }
   },
   {
@@ -243,18 +243,18 @@
     "icon": "https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/in.png",
     "slug": "piped-in-api-public",
     "status": "down",
-    "uptime": "87.85%",
+    "uptime": "87.83%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "81.48%",
-    "uptimeMonth": "87.85%",
-    "uptimeYear": "87.85%",
+    "uptimeWeek": "81.45%",
+    "uptimeMonth": "87.83%",
+    "uptimeYear": "87.83%",
     "time": 846,
     "timeDay": 784,
     "timeWeek": 800,
     "timeMonth": 846,
     "timeYear": 846,
     "dailyMinutesDown": {
-      "2022-06-03": 676,
+      "2022-06-03": 679,
       "2022-06-02": 1190
     }
   },
@@ -263,17 +263,19 @@
     "url": "http://in-proxy-piped.shimul.me",
     "icon": "https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/in.png",
     "slug": "piped-in-proxy-public",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1443,
-    "timeDay": 1406,
-    "timeWeek": 1418,
-    "timeMonth": 1443,
-    "timeYear": 1443,
-    "dailyMinutesDown": {}
+    "time": 1446,
+    "timeDay": 1439,
+    "timeWeek": 1425,
+    "timeMonth": 1446,
+    "timeYear": 1446,
+    "dailyMinutesDown": {
+      "2022-06-03": 0
+    }
   }
 ]
