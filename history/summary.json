@@ -113,18 +113,18 @@
     "icon": "https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/de.png",
     "slug": "piped-de-public",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.10%",
+    "uptimeDay": "90.61%",
+    "uptimeWeek": "98.66%",
+    "uptimeMonth": "99.10%",
+    "uptimeYear": "99.10%",
     "time": 780,
     "timeDay": 747,
     "timeWeek": 769,
     "timeMonth": 780,
     "timeYear": 780,
     "dailyMinutesDown": {
-      "2022-06-03": 0
+      "2022-06-03": 135
     }
   },
   {
@@ -229,8 +229,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1404,
-    "timeDay": 1492,
-    "timeWeek": 1338,
+    "timeDay": 1287,
+    "timeWeek": 1329,
     "timeMonth": 1404,
     "timeYear": 1404,
     "dailyMinutesDown": {}
@@ -241,18 +241,18 @@
     "icon": "https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/in.png",
     "slug": "piped-in-api-public",
     "status": "down",
-    "uptime": "91.05%",
-    "uptimeDay": "7.87%",
-    "uptimeWeek": "86.84%",
-    "uptimeMonth": "91.05%",
-    "uptimeYear": "91.05%",
+    "uptime": "90.22%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "85.50%",
+    "uptimeMonth": "90.22%",
+    "uptimeYear": "90.22%",
     "time": 846,
-    "timeDay": 879,
-    "timeWeek": 810,
+    "timeDay": 784,
+    "timeWeek": 800,
     "timeMonth": 846,
     "timeYear": 846,
     "dailyMinutesDown": {
-      "2022-06-03": 136,
+      "2022-06-03": 271,
       "2022-06-02": 1190
     }
   },
@@ -261,17 +261,19 @@
     "url": "http://in-proxy-piped.shimul.me",
     "icon": "https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/in.png",
     "slug": "piped-in-proxy-public",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1442,
-    "timeDay": 1507,
-    "timeWeek": 1418,
-    "timeMonth": 1442,
-    "timeYear": 1442,
-    "dailyMinutesDown": {}
+    "time": 1439,
+    "timeDay": 1317,
+    "timeWeek": 1408,
+    "timeMonth": 1439,
+    "timeYear": 1439,
+    "dailyMinutesDown": {
+      "2022-06-03": 0
+    }
   }
 ]
