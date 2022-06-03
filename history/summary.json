@@ -58,19 +58,19 @@
     "url": "http://us-piped.shimul.me",
     "icon": "https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/us.png",
     "slug": "piped-us-public",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.80%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 476,
-    "timeDay": 439,
-    "timeWeek": 336,
+    "timeDay": 440,
+    "timeWeek": 343,
     "timeMonth": 476,
     "timeYear": 476,
     "dailyMinutesDown": {
-      "2022-06-03": 0
+      "2022-06-03": 3
     }
   },
   {
@@ -241,18 +241,18 @@
     "icon": "https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/in.png",
     "slug": "piped-in-api-public",
     "status": "down",
-    "uptime": "91.21%",
-    "uptimeDay": "9.73%",
-    "uptimeWeek": "87.10%",
-    "uptimeMonth": "91.21%",
-    "uptimeYear": "91.21%",
+    "uptime": "91.19%",
+    "uptimeDay": "9.53%",
+    "uptimeWeek": "87.08%",
+    "uptimeMonth": "91.19%",
+    "uptimeYear": "91.19%",
     "time": 846,
     "timeDay": 879,
     "timeWeek": 810,
     "timeMonth": 846,
     "timeYear": 846,
     "dailyMinutesDown": {
-      "2022-06-03": 110,
+      "2022-06-03": 112,
       "2022-06-02": 1190
     }
   },
