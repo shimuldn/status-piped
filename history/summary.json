@@ -5,19 +5,17 @@
     "icon": "https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/jp.png",
     "slug": "piped-public",
     "status": "up",
-    "uptime": "99.95%",
-    "uptimeDay": "99.58%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "99.95%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 812,
     "timeDay": 769,
     "timeWeek": 723,
     "timeMonth": 812,
     "timeYear": 812,
-    "dailyMinutesDown": {
-      "2022-06-03": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Piped API - Public",
@@ -60,18 +58,20 @@
     "url": "http://us-piped.shimul.me",
     "icon": "https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/us.png",
     "slug": "piped-us-public",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 477,
-    "timeDay": 434,
-    "timeWeek": 328,
-    "timeMonth": 477,
-    "timeYear": 477,
-    "dailyMinutesDown": {}
+    "time": 476,
+    "timeDay": 439,
+    "timeWeek": 336,
+    "timeMonth": 476,
+    "timeYear": 476,
+    "dailyMinutesDown": {
+      "2022-06-03": 0
+    }
   },
   {
     "name": "Piped US API - Public",
@@ -241,18 +241,18 @@
     "icon": "https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/in.png",
     "slug": "piped-in-api-public",
     "status": "down",
-    "uptime": "91.34%",
-    "uptimeDay": "11.20%",
-    "uptimeWeek": "87.31%",
-    "uptimeMonth": "91.34%",
-    "uptimeYear": "91.34%",
+    "uptime": "91.21%",
+    "uptimeDay": "9.73%",
+    "uptimeWeek": "87.10%",
+    "uptimeMonth": "91.21%",
+    "uptimeYear": "91.21%",
     "time": 846,
     "timeDay": 879,
     "timeWeek": 810,
     "timeMonth": 846,
     "timeYear": 846,
     "dailyMinutesDown": {
-      "2022-06-03": 88,
+      "2022-06-03": 110,
       "2022-06-02": 1190
     }
   },
