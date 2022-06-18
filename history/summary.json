@@ -4,18 +4,20 @@
     "url": "http://piped.shimul.me",
     "icon": "https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/jp.png",
     "slug": "piped-public",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 830,
-    "timeDay": 976,
-    "timeWeek": 946,
-    "timeMonth": 830,
-    "timeYear": 830,
-    "dailyMinutesDown": {}
+    "time": 828,
+    "timeDay": 861,
+    "timeWeek": 921,
+    "timeMonth": 828,
+    "timeYear": 828,
+    "dailyMinutesDown": {
+      "2022-06-18": 0
+    }
   },
   {
     "name": "Piped API - Public",
