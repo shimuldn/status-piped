@@ -6,6 +6,7 @@ repo: status-piped # The name of this repository
 runs-on: ubuntu-latest
 
 sites:
+    ## Main Piped ##
   - name: Piped - Public
     url: http://piped.shimul.me
     icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/jp.png
@@ -16,6 +17,7 @@ sites:
     url: http://proxy-piped.shimul.me
     icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/jp.png
     
+    ## US Piped ##
   - name: Piped US - Public
     url: http://us-piped.shimul.me
     icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/us.png
@@ -26,6 +28,7 @@ sites:
     url: http://us-proxy-piped.shimul.me
     icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/us.png
     
+    ## DE Piped ##
   - name: Piped DE - Public
     url: http://de-piped.shimul.me
     icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/de.png
@@ -36,6 +39,8 @@ sites:
     url: http://de-proxy-piped.shimul.me
     icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/de.png
     
+    ## SA Piped ##
+    
   - name: Piped SA - Public
     url: http://sa-piped.shimul.me
     icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/sa.png
@@ -45,6 +50,8 @@ sites:
   - name: Piped SA Proxy - Public
     url: http://sa-proxy-piped.shimul.me
     icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/sa.png
+    
+    ## IN Piped ##
     
   - name: Piped IN - Public
     url: http://in-piped.shimul.me
