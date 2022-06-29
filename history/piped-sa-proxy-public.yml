@@ -1,7 +1,7 @@
 url: http://sa-proxy-piped.shimul.me
-status: up
-code: 200
-responseTime: 1181
-lastUpdated: 2022-06-29T06:00:43.119Z
+status: down
+code: 403
+responseTime: 34
+lastUpdated: 2022-06-29T08:18:56.436Z
 startTime: Mon May 23 2022 19:18:30 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
