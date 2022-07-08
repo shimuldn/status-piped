@@ -12,7 +12,7 @@
     "uptimeYear": "99.94%",
     "time": 734,
     "timeDay": 1032,
-    "timeWeek": 666,
+    "timeWeek": 693,
     "timeMonth": 715,
     "timeYear": 734,
     "dailyMinutesDown": {
@@ -32,7 +32,7 @@
     "uptimeYear": "99.66%",
     "time": 568,
     "timeDay": 736,
-    "timeWeek": 479,
+    "timeWeek": 500,
     "timeMonth": 498,
     "timeYear": 568,
     "dailyMinutesDown": {
@@ -53,7 +53,7 @@
     "uptimeYear": "99.94%",
     "time": 814,
     "timeDay": 1366,
-    "timeWeek": 741,
+    "timeWeek": 784,
     "timeMonth": 715,
     "timeYear": 814,
     "dailyMinutesDown": {
@@ -65,18 +65,19 @@
     "url": "http://us-piped.shimul.me",
     "icon": "https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/us.png",
     "slug": "piped-us-public",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.95%",
-    "time": 295,
-    "timeDay": 150,
-    "timeWeek": 228,
-    "timeMonth": 249,
-    "timeYear": 295,
+    "time": 294,
+    "timeDay": 120,
+    "timeWeek": 233,
+    "timeMonth": 248,
+    "timeYear": 294,
     "dailyMinutesDown": {
+      "2022-07-08": 0,
       "2022-06-21": 35
     }
   },
@@ -93,7 +94,7 @@
     "uptimeYear": "99.66%",
     "time": 145,
     "timeDay": 96,
-    "timeWeek": 99,
+    "timeWeek": 100,
     "timeMonth": 113,
     "timeYear": 145,
     "dailyMinutesDown": {
@@ -114,7 +115,7 @@
     "uptimeYear": "99.95%",
     "time": 365,
     "timeDay": 134,
-    "timeWeek": 302,
+    "timeWeek": 298,
     "timeMonth": 336,
     "timeYear": 365,
     "dailyMinutesDown": {
@@ -134,7 +135,7 @@
     "uptimeYear": "99.95%",
     "time": 668,
     "timeDay": 800,
-    "timeWeek": 997,
+    "timeWeek": 1151,
     "timeMonth": 648,
     "timeYear": 668,
     "dailyMinutesDown": {
@@ -154,7 +155,7 @@
     "uptimeYear": "99.72%",
     "time": 330,
     "timeDay": 384,
-    "timeWeek": 306,
+    "timeWeek": 317,
     "timeMonth": 307,
     "timeYear": 330,
     "dailyMinutesDown": {
@@ -175,7 +176,7 @@
     "uptimeYear": "99.95%",
     "time": 587,
     "timeDay": 627,
-    "timeWeek": 607,
+    "timeWeek": 570,
     "timeMonth": 564,
     "timeYear": 587,
     "dailyMinutesDown": {
@@ -195,7 +196,7 @@
     "uptimeYear": "99.96%",
     "time": 834,
     "timeDay": 938,
-    "timeWeek": 904,
+    "timeWeek": 901,
     "timeMonth": 790,
     "timeYear": 834,
     "dailyMinutesDown": {
@@ -215,7 +216,7 @@
     "uptimeYear": "99.18%",
     "time": 452,
     "timeDay": 562,
-    "timeWeek": 417,
+    "timeWeek": 435,
     "timeMonth": 424,
     "timeYear": 452,
     "dailyMinutesDown": {
@@ -237,7 +238,7 @@
     "uptimeYear": "99.96%",
     "time": 826,
     "timeDay": 917,
-    "timeWeek": 765,
+    "timeWeek": 779,
     "timeMonth": 786,
     "timeYear": 826,
     "dailyMinutesDown": {
@@ -257,7 +258,7 @@
     "uptimeYear": "99.96%",
     "time": 1149,
     "timeDay": 1684,
-    "timeWeek": 1057,
+    "timeWeek": 1128,
     "timeMonth": 1058,
     "timeYear": 1149,
     "dailyMinutesDown": {
@@ -277,7 +278,7 @@
     "uptimeYear": "99.28%",
     "time": 694,
     "timeDay": 1050,
-    "timeWeek": 623,
+    "timeWeek": 657,
     "timeMonth": 655,
     "timeYear": 694,
     "dailyMinutesDown": {
@@ -299,7 +300,7 @@
     "uptimeYear": "99.96%",
     "time": 1201,
     "timeDay": 1673,
-    "timeWeek": 1079,
+    "timeWeek": 1158,
     "timeMonth": 1120,
     "timeYear": 1201,
     "dailyMinutesDown": {
@@ -319,7 +320,7 @@
     "uptimeYear": "99.91%",
     "time": 628,
     "timeDay": 1017,
-    "timeWeek": 728,
+    "timeWeek": 708,
     "timeMonth": 628,
     "timeYear": 628,
     "dailyMinutesDown": {
@@ -333,14 +334,14 @@
     "icon": "https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/jp.png",
     "slug": "piped-jp-api-public",
     "status": "up",
-    "uptime": "98.56%",
+    "uptime": "98.57%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.56%",
-    "uptimeYear": "98.56%",
+    "uptimeMonth": "98.57%",
+    "uptimeYear": "98.57%",
     "time": 343,
     "timeDay": 584,
-    "timeWeek": 369,
+    "timeWeek": 387,
     "timeMonth": 343,
     "timeYear": 343,
     "dailyMinutesDown": {
@@ -363,7 +364,7 @@
     "uptimeYear": "99.91%",
     "time": 711,
     "timeDay": 1011,
-    "timeWeek": 800,
+    "timeWeek": 794,
     "timeMonth": 711,
     "timeYear": 711,
     "dailyMinutesDown": {
